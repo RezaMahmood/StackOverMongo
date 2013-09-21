@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverMongo.Import", "ImportStackExchangeSite\StackOverMongo.Import.csproj", "{89AACD61-53D8-4113-B200-EBA0D8B533C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverMongo.Core", "StackOverMongo.Core\StackOverMongo.Core.csproj", "{79F3F04F-08EE-4B19-9E35-F87E9DAD1A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89AACD61-53D8-4113-B200-EBA0D8B533C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89AACD61-53D8-4113-B200-EBA0D8B533C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89AACD61-53D8-4113-B200-EBA0D8B533C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89AACD61-53D8-4113-B200-EBA0D8B533C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F3F04F-08EE-4B19-9E35-F87E9DAD1A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F3F04F-08EE-4B19-9E35-F87E9DAD1A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F3F04F-08EE-4B19-9E35-F87E9DAD1A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F3F04F-08EE-4B19-9E35-F87E9DAD1A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
